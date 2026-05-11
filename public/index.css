@@ -29,6 +29,10 @@ body {
 	
 }
 
+img {
+	max-width: 100%;
+}
+
 .page-content {
 	gap: var(--ds-size-5);
 	padding-block: var(--ds-size-7) var(--ds-size-10);
